@@ -1,6 +1,8 @@
 # Software Engineering Methods
-[![Build Status](https://travis-ci.org/satnaing/sem.svg?branch=master)](https://travis-ci.org/satnaing/sem)
 
-[![LICENSE](https://img.shields.io/github/license/satnaing/sem.svg?style=flat-square)](https://github.com/satnaing/sem/blob/master/LICENSE)
+- Master Build Status [![Build Status](https://travis-ci.org/satnaing/sem.svg?branch=master)](https://travis-ci.org/satnaing/sem)
+- Develop Build Status [![Build Status](https://travis-ci.org/satnaing/sem.svg?branch=develop)](https://travis-ci.org/satnaing/sem)
 
-[![Releases](https://img.shields.io/github/release/satnaing/sem/all.svg?style=flat-square)](https://github.com/satnaing/sem/releases)
+- License [![LICENSE](https://img.shields.io/github/license/satnaing/sem.svg?style=flat-square)](https://github.com/satnaing/sem/blob/master/LICENSE)
+
+- Release [![Releases](https://img.shields.io/github/release/satnaing/sem/all.svg?style=flat-square)](https://github.com/satnaing/sem/releases)
